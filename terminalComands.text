@@ -1,0 +1,12 @@
+pwd -> mostra a pasta atual 
+ls -> mostra o conteúdo da página
+mkdir -> cria uma nova pasta
+cd -> entra na pasta
+clear -> limpa o terminal
+man -> mostra o manual
+q - quit -> sai 
+caqt -> mostra o conteudo do arquivo 
+hexdump -> mostra o arquivo em hexadecimal
+./ -> pasta local
+gcc arquivo.c -o nome -> troca o nome do executável
+
